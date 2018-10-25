@@ -10,3 +10,4 @@ Animator includes:
 3. Walk downstairs
 4. Idle - Talk, sit
 5. Shooting
+6. ...
